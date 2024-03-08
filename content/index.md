@@ -3,7 +3,7 @@ title: Schopopuli Socius Homepage
 draft: false
 tags:
   - home
-time: true
+time: ()
 ---
 
 Welcome, dear guest! This is a test page with a graph.
