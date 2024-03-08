@@ -1,10 +1,15 @@
+---
+title: Schopopuli Socius Homepage
+draft: false
+tags:
+  - home
+---
 
-# Schopopuli Socius Homepage
-2024.03.08 17:50
+Version from  2024.03.08 17:50
 
-## SubTitle
+## Introduction
 Welcome, dear guest! This is a test page with a graph.
 
-## Header 1
+## Media part
 
 ![[Pasted image 20240308185205.png]]
