@@ -1,6 +1,5 @@
----
-title: Welcome to Quartz
----
+2024.03.08 17:50
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Happy welcome!
+
+![[Pasted image 20240308185205.png]]
